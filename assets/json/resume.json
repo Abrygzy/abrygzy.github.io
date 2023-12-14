@@ -14,14 +14,6 @@
       "region": "Haidian"
     }
   },
-  "work": [],
-  "volunteer": [
-    {
-      "organization": "CSST Summer School",
-      "position": "Volunteer",
-      "time": "2023.07"
-    }
-  ],
   "education": [
     {
       "institution": "Nanjing University, Nanjing, China",
@@ -44,6 +36,21 @@
       "courses": []
     }
   ],
+  "work": [],
+  "volunteer": [
+    {
+      "organization": "KIAA-PKU Galaxy Journal Club",
+      "position": "Co-organizer",
+      "startDate": "2023.09",
+      "endDate": ""
+    },
+    {
+      "organization": "CSST Summer School",
+      "position": "Volunteer",
+      "startDate": "2023-07-01",
+      "endDate": "2023-08-01"
+    }
+  ],
   "awards": [],
   "certificates": [],
   "publications": [],
@@ -55,14 +62,6 @@
     {
       "name": "Latex",
       "level": "Familiar"
-    },
-    {
-      "name": "English",
-      "level": "Fluent",
-      "keywords": [
-        "English",
-        "Chinese"
-      ]
     }
   ],
   "languages": [
