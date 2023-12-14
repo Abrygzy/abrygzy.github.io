@@ -4,8 +4,8 @@
     "label": "Student",
     "image": "",
     "email": "zygao@stu.pku.edu.cn",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    // "phone": "(912) 123-4567",
+    "url": "https://abrygzy.github.io/",
     "summary": "A PHD student trying to understand galaxies.",
     "location": {
       "address": "No.5 Yiheyuan Road",
@@ -15,11 +15,11 @@
       "region": "Haidian"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
+      // {
+      //   "network": "Twitter",
+      //   "username": "AlbertEinstein",
+      //   "url": "https://twitter.com/AlbertEinstein"
+      // }
     ]
   },
   "work": [],
@@ -32,6 +32,16 @@
       "studyType": "Betchelor",
       "startDate": "2018-09-01",
       "endDate": "2022-06-30",
+      "score": "",
+      "courses": []
+    }
+    {
+      "institution": "Peking University, Beijing, China",
+      "url": "https://kiaa.pku.edu.cn/",
+      "area": "Astronomy",
+      "studyType": "Doctor",
+      "startDate": "2022-09-01",
+      "endDate": "",
       "score": "",
       "courses": []
     }
