@@ -23,7 +23,13 @@
     ]
   },
   "work": [],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "CSST Summer School",
+      "position": "Volunteer",
+      "time": "2023.07"
+    }
+  ],
   "education": [
     {
       "institution": "Nanjing University, Nanjing, China",
@@ -49,7 +55,24 @@
   "awards": [],
   "certificates": [],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Python",
+      "level": "Familiar"
+    },
+    {
+      "name": "Latex",
+      "level": "Familiar"
+    },
+    {
+      "name": "English",
+      "level": "Fluent",
+      "keywords": [
+        "English",
+        "Chinese"
+      ]
+    }
+  ],
   "languages": [
     {
       "language": "Chinese",
