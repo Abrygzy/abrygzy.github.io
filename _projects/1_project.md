@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Default example project
+description: A project with a background image
 img: assets/img/12.jpg
-importance: 1
+importance: 4
 category: work
 related_publications: einstein1956investigations, einstein1950meaning
 ---
