@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Try to understand the beauty of galaxies
+subtitle: Trying to understand the beauty of galaxies
 
 profile:
   align: right
