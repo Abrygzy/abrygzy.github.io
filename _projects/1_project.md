@@ -4,7 +4,7 @@ title: Default example project
 description: A project with a background image
 img: assets/img/12.jpg
 importance: 4
-category: fun
+category: Template
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
