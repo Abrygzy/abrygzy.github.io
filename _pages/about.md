@@ -6,7 +6,7 @@ subtitle: Trying to understand the beauty of galaxies
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: head.png # path of the image within the "assets" directory
   image_circular: false # crops the image to make it circular
   address: >
     <p>zygao@stu.pku.edu.cn</p>
