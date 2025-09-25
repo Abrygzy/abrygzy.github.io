@@ -18,7 +18,7 @@
   "education": [
       {
         "location": "Nanjing, China",
-        "institution": "Nanjing University, Nanjing, China",
+        "institution": "Nanjing University",
         "url": "https://astronomy.nju.edu.cn/",
         "area": "Astronomy",
         "studyType": "Bachelor",
@@ -28,12 +28,23 @@
         "courses": []
       },
       {
-        "institution": "Kavli Institute for Astronomy and Astrophysics / Peking University, Beijing, China",
+        "institution": "Kavli Institute for Astronomy and Astrophysics / Peking University",
         "location": "Beijing, China",
         "url": "https://kiaa.pku.edu.cn/",
         "area": "Astronomy",
         "studyType": "Doctor",
         "startDate": "2022-09-01",
+        "endDate": "",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "Kavli Institute for the Physics and Mathematics of the Universe (Kavli IPMU) / The University of Tokyo",
+        "location": "Kashiwa, Chiba, Japan",
+        "url": "https://www.ipmu.jp/",
+        "area": "Astronomy",
+        "studyType": "Visiting Scholar",
+        "startDate": "2025-09-01",
         "endDate": "",
         "score": "",
         "courses": []
