@@ -1,0 +1,47 @@
+- category: Astronomy
+  description: Frequently used astronomy databases, literature portals, and survey resources.
+  links:
+    - title: NASA ADS
+      url: https://ui.adsabs.harvard.edu/
+      description: The standard literature search portal for astronomy and astrophysics papers.
+    - title: arXiv Astrophysics
+      url: https://arxiv.org/archive/astro-ph
+      description: Daily preprints across astrophysics, useful for tracking the latest papers.
+    - title: SIMBAD
+      url: https://simbad.cds.unistra.fr/simbad/
+      description: Quick lookup for astronomical objects, identifiers, and bibliography links.
+    - title: SDSS
+      url: https://www.sdss.org/
+      description: Survey portal for data releases, imaging, spectra, and project documentation.
+
+- category: Data and Analysis
+  description: Tools and services for datasets, notebooks, and reproducible research workflows.
+  links:
+    - title: Zenodo
+      url: https://zenodo.org/
+      description: Repository for publishing datasets, software, and citable research outputs.
+    - title: Overleaf
+      url: https://www.overleaf.com/
+      description: Collaborative LaTeX editor for papers, notes, and presentations.
+    - title: Jupyter
+      url: https://jupyter.org/
+      description: Interactive notebook ecosystem for data exploration and analysis.
+    - title: Astropy
+      url: https://www.astropy.org/
+      description: Core Python library ecosystem for astronomy data analysis.
+
+- category: Writing and Productivity
+  description: General-purpose tools that are useful for writing, organizing, and sharing work.
+  links:
+    - title: Google Scholar
+      url: https://scholar.google.com/
+      description: Fast citation lookup and broad academic search across many disciplines.
+    - title: Notion
+      url: https://www.notion.so/
+      description: Workspace for notes, reading lists, project tracking, and personal dashboards.
+    - title: GitHub
+      url: https://github.com/
+      description: Code hosting and version control platform for software and collaboration.
+    - title: Excalidraw
+      url: https://excalidraw.com/
+      description: Lightweight whiteboard for sketches, flowcharts, and quick visual notes.
